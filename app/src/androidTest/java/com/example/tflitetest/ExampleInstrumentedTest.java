@@ -1,4 +1,4 @@
-package com.example.tflitetest;
+package com.example.TFLiteTest;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.tflitetest", appContext.getPackageName());
+        assertEquals("com.example.test324feats", appContext.getPackageName());
     }
 }

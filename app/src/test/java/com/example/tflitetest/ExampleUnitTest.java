@@ -1,4 +1,4 @@
-package com.example.tflitetest;
+package com.example.TFLiteTest;
 
 import org.junit.Test;
 
